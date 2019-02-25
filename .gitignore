@@ -1,0 +1,7 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/LearnTest/ConsoleApp1/bin/Debug
+/LearnTest/.vs/LearnTest/v15
+/LearnTest/ConsoleApp1/obj/Debug
